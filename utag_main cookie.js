@@ -1,0 +1,5 @@
+_sn:11$_ss:0$_st:1556688322768$dc_visit:11$v_id:016a2e39ca320011eb0f9ce47aef03079007007100ac2$pa:education-craig$ses_id:1556683205657%3Bexp-session$_pn:26%3Bexp-session$dc_event:158%3Bexp-session$iframes_loaded:true%3Bexp-1556697607257$dc_region:eu-central-1%3Bexp-session
+v_id:016a7194af9d001653505a33fab903079003707100bd0$_sn:1$_se:7$_ss:0$_st:1556685647120$ses_id:1556683730846%3Bexp-session$_pn:7%3Bexp-session$dc_visit:1$dc_event:7%3Bexp-session$dc_region:ap-southeast-2%3Bexp-session
+
+_sn:11$_ss:0$_st:1556689020753$dc_visit:11$v_id:016a2e39ca320011eb0f9ce47aef03079007007100ac2$pa:education-craig$ses_id:1556683205657%3Bexp-session$_pn:31%3Bexp-session$dc_event:162%3Bexp-session$iframes_loaded:true%3Bexp-1556697607257$dc_region:eu-central-1%3Bexp-session
+TAPID = tealium-datamart/tealium-main>016a0c28d342000c830ea2ba8fcd03079001407100ac2|tealium/main>1a0523f23ffd46a5a272309f492c5621|tealium/education>016a0c28ba66002101a4f67c4a9803079001407100ac2|education-craig/mel0419-011>016a7194af9d001653505a33fab903079003707100bd0|tealium-datamart/main>016a2e38d5f60016082966a0208403079003707100ac2|tealiumlabs/commerce>016a2e396b3c0002134ef95dd8ad03079003f07100ac2|
